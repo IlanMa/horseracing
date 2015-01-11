@@ -1,0 +1,49 @@
+#top {
+    height: 180px;
+    width: 100%;                                       
+}
+
+#middle {
+    border: solid #bbbbbb 3px;
+    height: 80px;
+    width: 100%;
+}
+
+#bottom {
+    border: solid #bbbbbb 3px;
+    height: 80px;
+    width: 100%;
+}
+
+#double {
+    height: 80px;
+    width: 700px;
+    font-size: 60px;
+    padding: 30px 0 0 0;
+}
+
+#horse1 {
+    margin-left: 0%;    
+}
+
+#horse2 {
+    margin-right: 0%;    
+}
+
+#letterQ {
+    margin: 10px 0 25px 0;
+}
+
+#letterP {
+    margin: 10px 0 25px 0;
+}
+
+#intro {
+    font-size: 130px;          
+}
+
+#clickReset {
+    background-color: green;
+    color: white;
+    font-size: 40px;
+}
